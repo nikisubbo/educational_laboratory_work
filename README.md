@@ -4,6 +4,6 @@
   git clone https://github.com/nikisubbo/education_laboratory_work.git
   cd education_laboratory_work
 Участники и роли:
-Субботин Никита - главный разработчик.
+Субботин Никита - разработчик.
 Субботин Никита - тестировщик.
 Субботин Никита - специалист по git.
